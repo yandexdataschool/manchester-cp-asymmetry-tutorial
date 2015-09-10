@@ -1,1 +1,1 @@
-FROM yandex/rep:0.6.3
+FROM anaderi/rep-jupyterhub:latest
